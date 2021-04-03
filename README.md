@@ -8,6 +8,11 @@ An attempt to implement the screenshot generation of telegram files without down
 
 ## Installation Guide
 
+
+### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/swatserverpeer/animated-lamp)
+
 ### Prerequisites
 
 * FFmpeg.
